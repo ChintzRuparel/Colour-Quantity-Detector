@@ -7,16 +7,13 @@ import imutils
 
 clusters = 5 # try changing it
 
-img = cv2.imread('2.png')
+img = cv2.imread('86BFF403-E21A-4D91-9CF5-67AF7F5A3D91_1_201_a.jpeg')
 org_img = img.copy()
 print('Org image shape --> ',img.shape)
 
-# rows = 200
-# cols = int((img.shape[0]/img.shape[1])*rows)
 
 img = imutils.resize(img,height=200)
 
-# img = cv2.resize(img,dsize=(rows,cols),interpolation=cv2.INTER_LINEAR)
 print('After resizing shape --> ',img.shape)
 
 
@@ -40,7 +37,7 @@ block = np.ones((50,50,3),dtype='uint')
 plt.figure(figsize=(12,8))
 for i in range(clusters):
     plt.subplot(1,clusters,i+1)
-    block[:] = p_and_c[i][1][::-1] # we have done this to convert bgr(opencv) to rgb(matplotlib) 
+    block[:] = p_and_c[i][1][::-1] 
     plt.imshow(block)
     plt.xticks([])
     plt.yticks([])
