@@ -17,11 +17,14 @@
 
 
 <h2>Input Image 👇</h2>
-![IMG_3211](https://user-images.githubusercontent.com/51440734/198591353-8a6efaf7-82dd-44f2-a3d0-501a7d409d3b.jpeg)
+<img src="https://user-images.githubusercontent.com/51440734/198701357-b2943205-f957-414e-9e25-a31d10ed8ef3.jpeg" width="500" height="600">
+
+
 
 
 <h2>Output Image 👇</h2>
-![output](https://user-images.githubusercontent.com/51440734/198591612-5aaa3823-877b-45b4-884f-559db73c389a.png)
+
+<img src="https://user-images.githubusercontent.com/51440734/198591612-5aaa3823-877b-45b4-884f-559db73c389a.png" width="500" height="600">
 
 
 <h2>Conclusion</h2>
