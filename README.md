@@ -17,9 +17,12 @@
 
 
 <h2>Input Image 👇</h2>
+![IMG_3211](https://user-images.githubusercontent.com/51440734/198591353-8a6efaf7-82dd-44f2-a3d0-501a7d409d3b.jpeg)
 
 
 <h2>Output Image 👇</h2>
+![output](https://user-images.githubusercontent.com/51440734/198591612-5aaa3823-877b-45b4-884f-559db73c389a.png)
+
 
 <h2>Conclusion</h2>
 <p>
